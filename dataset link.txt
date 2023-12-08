@@ -1,0 +1,4 @@
+https://www.kaggle.com/competitions/tabular-playground-series-mar-2022/data?select=train.csv
+
+
+Since the file size is more than 25mb it is not allowing us to upload the dataset. So sending you the link of the data using notepad file.
